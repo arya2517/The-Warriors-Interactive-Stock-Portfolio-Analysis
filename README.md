@@ -1,1 +1,1 @@
-# The-Warriors-Interactive-Stock-Portfolio-Analysis
+Real-time data fetching due to Y finance library
